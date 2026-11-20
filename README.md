@@ -89,7 +89,8 @@ You can generate your API key, view your rates, and fund your API credit balance
 4. **Generate Your API Key**
    - **Automatic Self-Serve Generation**: Once your account has **more than `$50.00` in lifetime USD top-ups**, self-serve API key generation unlocks automatically. Click **`Generate My API Key`** to instantly create and link your personal `pvsk_...` key (Pixel Verification enabled, default `20 req/min` rate limit).
    - **Not unlocked yet?** The **`API`** tab displays your lifetime top-up progress and the remaining amount needed. Click **`Top Up Wallet`** (or go to the **`Top Up`** tab) to deposit funds via **Binance Pay, USDT on-chain, bKash, or Nagad**. Once your lifetime top-up exceeds `$50.00`, return to the **`API`** tab and click **`Generate My API Key`**.
-   - **Need manual setup or custom volume pricing?** Contact Owner Tanvir on Telegram at [`@Tanvir124`](https://t.me/Tanvir124).
+   - **Want to Start with testing or few dollers??** Contact Owner Tanvir on Telegram at [`@Tanvir124`](https://t.me/Tanvir124).
+   - **Need custom bulk pricing?** Contact Owner Tanvir on Telegram at [`@Tanvir124`](https://t.me/Tanvir124).
 
 5. **Reveal & Copy Your `X-API-Key`**
    On the **`API`** tab, click the **eye icon** next to the `X-API-Key` box to reveal your full `pvsk_...` key, then tap/click the key box to copy it.
